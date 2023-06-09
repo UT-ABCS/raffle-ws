@@ -6,7 +6,7 @@ This project was taught as a Technical Project Workshop for the Association of C
 This workshop will cover blah blah blah. The goal of this project is to blah blah blah. You can find the slides associated with this workshop at [this link](https://google.com).  <br />
   
 __Technology Used__
-+ Python / JavaScript / p5.js / Node.js
++ Python
 
 ## Installation
 1. Ensure that you have the latest version of Node.js installed on your computer. 
