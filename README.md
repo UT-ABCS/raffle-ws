@@ -8,6 +8,7 @@ The goal of this project is to create a raffle from respondees of a given Google
 + obtaining credentials from the Google Cloud Console
 + using `pip` to install third party libraries into a Python project
 + retrieving data from Google Sheets using the Google Sheets API
++ protecting sensitive information using `.gitignore`
 
 You can find the slides associated with this workshop at [this link](https://google.com).  <br />
   
