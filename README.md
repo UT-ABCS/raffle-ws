@@ -19,8 +19,8 @@ __Technology Used__
 
 ## Installation
 Before following these steps, ensure that you have the latest version of Python and pip installed on your computer 
-2. Clone this repository, `cd` into this respository
-3. Install the necessary dependencies by calling `pip install -r requirements.txt`
+1. Clone this repository, `cd` into this respository
+2. Install the necessary dependencies by calling `pip install -r requirements.txt`
 
 ## How to run
 Before running this code, make sure that you have a Google Cloud project and a Spotify Web Application made.
