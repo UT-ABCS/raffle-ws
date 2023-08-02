@@ -18,7 +18,7 @@ __Technology Used__
 + Google Sheets API
 
 ## Installation
-1. Ensure that you have the latest version of Python and pip installed on your computer 
+Before following these steps, ensure that you have the latest version of Python and pip installed on your computer 
 2. Clone this repository, `cd` into this respository
 3. Install the necessary dependencies by calling `pip install -r requirements.txt`
 
