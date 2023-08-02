@@ -21,7 +21,6 @@ __Technology Used__
 1. Ensure that you have the latest version of Python and pip installed on your computer 
 2. Clone this repository, `cd` into this respository
 3. Install the necessary dependencies by calling `pip install -r requirements.txt`
-4. Run the program by calling `python raffle.py`
 
 ## How to run
 Before running this code, make sure that you have a Google Cloud project and a Spotify Web Application made.
