@@ -6,14 +6,14 @@ This project was taught as a Technical Project Workshop for the Association of C
 The goal of this project is to create a raffle from respondees of a given Google Form by utilizing the Google Sheets API. This workshop will cover:
 + selecting a random item from a list
 + obtaining credentials from the Google Cloud Console
-+ using pip to install third party libraries into a Python project
++ using `pip` to install third party libraries into a Python project
 + retrieving data from Google Sheets using the Google Sheets API
 
 You can find the slides associated with this workshop at [this link](https://google.com).  <br />
   
 __Technology Used__
 + Python
-+ pip
++ `pip`
 + Google Cloud Platform
 + Google Sheets API
 
