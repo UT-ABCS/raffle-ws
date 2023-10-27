@@ -10,7 +10,7 @@ The goal of this project is to create a raffle from respondees of a given Google
 + retrieving data from Google Sheets using the Google Sheets API
 + protecting sensitive information using `.gitignore`
 
-You can find the slides associated with this workshop at [this link](https://google.com).  <br />
+You can find the slides associated with this workshop at [this link](https://docs.google.com/presentation/d/1N-wIrvJkItsMiWQiYdRXLf-K0xEpno6feSvnAXdX5GM/edit).  <br />
   
 __Technology Used__
 + Python
